@@ -1,0 +1,27 @@
+name: GenRSC
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: GenCNIP
+      run: sh ./GenCNIP.sh
+
+    - name: GenGFW
+      run: sh ./GenGFW.sh
+        
+    - name: Commit
+      run : |
+        git config user.name 'github-actions[bot]'
+        git config user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m "$(date +%Y-%m-%d" "%H:%M:%S)" --allow-empty
+        git push -f
