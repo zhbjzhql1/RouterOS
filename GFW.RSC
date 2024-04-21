@@ -1,6 +1,6 @@
 :global dnsserver 10.0.0.254
 /ip dns static
-remove [/ip dns static find address-list=GFW]
+remove [/ip dns static find address-list=GFW_List]
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=000webhost.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=030buy.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=0rz.tw
