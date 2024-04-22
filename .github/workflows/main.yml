@@ -18,6 +18,9 @@ jobs:
     - name: GenGFW
       run: sh ./GenGFW.sh
         
+    - name: GenCNDOMAIN
+      run: sh ./GenCNDOMAIN.sh
+      
     - name: Commit
       run : |
         git config user.name 'github-actions[bot]'
