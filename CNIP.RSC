@@ -2392,7 +2392,6 @@ add address=103.79.228.0/24 list=LOCALIP
 add address=103.79.24.0/21 list=LOCALIP
 add address=103.79.36.0/22 list=LOCALIP
 add address=103.79.40.0/21 list=LOCALIP
-add address=103.79.52.0/22 list=LOCALIP
 add address=103.79.56.0/21 list=LOCALIP
 add address=103.79.64.0/21 list=LOCALIP
 add address=103.79.80.0/21 list=LOCALIP
