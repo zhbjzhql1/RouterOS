@@ -1824,6 +1824,7 @@ add address=103.36.168.0/21 list=LOCALIP
 add address=103.36.192.0/19 list=LOCALIP
 add address=103.36.208.0/21 list=LOCALIP
 add address=103.36.216.0/22 list=LOCALIP
+add address=103.36.222.0/23 list=LOCALIP
 add address=103.36.224.0/20 list=LOCALIP
 add address=103.36.240.0/21 list=LOCALIP
 add address=103.36.28.0/22 list=LOCALIP
@@ -2448,7 +2449,6 @@ add address=103.84.136.0/22 list=LOCALIP
 add address=103.84.16.0/20 list=LOCALIP
 add address=103.84.170.0/23 list=LOCALIP
 add address=103.84.20.0/22 list=LOCALIP
-add address=103.84.204.0/23 list=LOCALIP
 add address=103.84.24.0/21 list=LOCALIP
 add address=103.84.48.0/22 list=LOCALIP
 add address=103.84.64.0/22 list=LOCALIP
