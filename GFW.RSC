@@ -942,6 +942,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=channelnewsasia.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=chaoex.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=chapm25.com
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=chatgpt.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=chatnook.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=chaturbate.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=checkgfw.com
