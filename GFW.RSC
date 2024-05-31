@@ -5911,6 +5911,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=x-berry.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=x-wall.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=x.co
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=x.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=x.company
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=x1949x.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=x24hr.com
