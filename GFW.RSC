@@ -4228,6 +4228,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=pythonhackers.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=pytorch.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=qanote.com
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=qbittorrent.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=qgirl.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=qhigh.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=qi-gong.me
