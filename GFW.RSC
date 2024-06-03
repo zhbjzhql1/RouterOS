@@ -630,7 +630,6 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blog.workflow.is
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blog.xuite.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blog.youthwant.com.tw
-add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blog.youxu.info
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blogblog.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blogcatalog.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blogcity.me
@@ -4075,6 +4074,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=piposay.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=piraattilahti.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=piring.com
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=pixeldrain.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=pixelqi.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=pixiv.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=pixnet.net
@@ -6040,7 +6040,6 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yingsuoss.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yinlei.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yipub.com
-add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yiyechat.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yizhihongxing.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yobit.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yobt.com
@@ -6088,13 +6087,13 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yuanzhengtang.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yulghun.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yunchao.net
-add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yuntipub.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yuvutu.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yvesgeleyn.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=ywpw.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yx51.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yyii.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yyjlymb.xyz
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yysub.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=yzzk.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=z-lib.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=zacebook.com
