@@ -941,6 +941,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=channelnewsasia.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=chaoex.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=chapm25.com
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=chat.lmsys.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=chatgpt.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=chatnook.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=chaturbate.com
@@ -3219,7 +3220,6 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=livedoor.jp
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=liveleak.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=livemint.com
-add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=livestation.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=livestream.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=livevideo.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=livingonline.us
@@ -3227,7 +3227,6 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=liwangyang.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=lizhizhuangbi.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=lkcn.net
-add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=llss.me
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=lncn.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=load.to
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=lobsangwangyal.com
@@ -4263,9 +4262,9 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=qz.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=r0.ru
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=r18.com
-add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=ra.gg
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=radicalparty.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=radiko.jp
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=radio-canada.ca
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=radio.garden
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=radioaustralia.net.au
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=radiohilight.net
@@ -4875,6 +4874,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=taipei.gov.tw
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=taipeisociety.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=taipeitimes.com
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=taisounds.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=taiwan-sex.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=taiwanbible.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=taiwancon.com
