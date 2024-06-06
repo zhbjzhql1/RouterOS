@@ -329,6 +329,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=apkmonk.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=apkplz.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=apkpure.com
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=apkpure.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=aplusvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=app.box.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=app.cloudcone.com
@@ -1343,6 +1344,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=deviantart.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=devio.us
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=devpn.com
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=devv.ai
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=dfas.mil
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=dfn.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=dharamsalanet.com
