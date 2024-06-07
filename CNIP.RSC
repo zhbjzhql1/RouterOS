@@ -4784,6 +4784,7 @@ add address=160.202.60.0/22 list=LOCALIP
 add address=160.202.60.0/23 list=LOCALIP
 add address=160.202.62.0/24 list=LOCALIP
 add address=160.22.58.0/23 list=LOCALIP
+add address=160.22.82.0/23 list=LOCALIP
 add address=160.238.64.0/22 list=LOCALIP
 add address=160.62.10.0/24 list=LOCALIP
 add address=160.83.109.0/24 list=LOCALIP
@@ -7409,6 +7410,7 @@ add address=38.101.160.40/32 list=LOCALIP
 add address=38.101.162.120/32 list=LOCALIP
 add address=38.103.64.26/32 list=LOCALIP
 add address=38.196.176.0/24 list=LOCALIP
+add address=38.224.60.0/24 list=LOCALIP
 add address=39.0.0.0/24 list=LOCALIP
 add address=39.0.128.0/17 list=LOCALIP
 add address=39.0.16.0/20 list=LOCALIP
