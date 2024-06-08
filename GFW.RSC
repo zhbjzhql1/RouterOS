@@ -3180,6 +3180,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=lianyue.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=liaowangxizang.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=liberal.org.hk
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=libertysculpturepark.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=libertytimes.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=library.usc.cuhk.edu.hk
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=libredd.it
@@ -5849,6 +5850,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=wrchina.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=wretch.cc
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=writer.zoho.com
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=writesonic.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=wsj.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=wsj.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=wsjhk.com
