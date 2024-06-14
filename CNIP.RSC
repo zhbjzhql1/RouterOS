@@ -4758,7 +4758,7 @@ add address=159.27.128.88/30 list=LOCALIP
 add address=159.27.132.0/25 list=LOCALIP
 add address=159.27.132.128/26 list=LOCALIP
 add address=159.27.132.192/28 list=LOCALIP
-add address=159.27.132.208/30 list=LOCALIP
+add address=159.27.132.208/29 list=LOCALIP
 add address=159.27.144.0/20 list=LOCALIP
 add address=159.27.160.0/21 list=LOCALIP
 add address=159.27.168.0/22 list=LOCALIP
