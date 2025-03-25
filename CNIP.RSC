@@ -501,6 +501,7 @@ add address=103.123.200.0/21 list=LOCALIP
 add address=103.123.208.0/21 list=LOCALIP
 add address=103.123.212.0/22 list=LOCALIP
 add address=103.123.4.0/22 list=LOCALIP
+add address=103.123.4.0/23 list=LOCALIP
 add address=103.123.56.0/22 list=LOCALIP
 add address=103.123.88.0/21 list=LOCALIP
 add address=103.124.212.0/22 list=LOCALIP
