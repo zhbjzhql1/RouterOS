@@ -1823,7 +1823,6 @@ add address=103.37.144.0/20 list=LOCALIP
 add address=103.37.16.0/22 list=LOCALIP
 add address=103.37.160.0/21 list=LOCALIP
 add address=103.37.172.0/22 list=LOCALIP
-add address=103.37.172.0/24 list=LOCALIP
 add address=103.37.176.0/22 list=LOCALIP
 add address=103.37.176.0/23 list=LOCALIP
 add address=103.37.18.0/23 list=LOCALIP
@@ -5332,7 +5331,6 @@ add address=163.223.173.0/24 list=LOCALIP
 add address=163.223.178.0/23 list=LOCALIP
 add address=163.223.28.0/23 list=LOCALIP
 add address=163.223.32.0/23 list=LOCALIP
-add address=163.223.68.0/23 list=LOCALIP
 add address=163.228.0.0/16 list=LOCALIP
 add address=163.244.246.0/24 list=LOCALIP
 add address=163.47.4.0/22 list=LOCALIP
