@@ -3304,7 +3304,6 @@ add address=113.136.0.0/13 list=LOCALIP
 add address=113.16.0.0/15 list=LOCALIP
 add address=113.18.0.0/16 list=LOCALIP
 add address=113.192.40.0/23 list=LOCALIP
-add address=113.192.56.0/23 list=LOCALIP
 add address=113.192.57.0/24 list=LOCALIP
 add address=113.194.0.0/15 list=LOCALIP
 add address=113.197.100.0/22 list=LOCALIP
