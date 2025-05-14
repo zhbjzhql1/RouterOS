@@ -5372,6 +5372,7 @@ add address=164.52.52.0/24 list=LOCALIP
 add address=164.52.74.0/24 list=LOCALIP
 add address=164.52.80.0/24 list=LOCALIP
 add address=165.99.4.0/24 list=LOCALIP
+add address=165.99.42.0/23 list=LOCALIP
 add address=166.111.0.0/16 list=LOCALIP
 add address=167.139.0.0/16 list=LOCALIP
 add address=167.189.0.0/16 list=LOCALIP
