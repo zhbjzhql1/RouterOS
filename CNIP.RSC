@@ -7852,7 +7852,8 @@ add address=223.116.0.0/15 list=LOCALIP
 add address=223.120.0.0/13 list=LOCALIP
 add address=223.120.128.0/17 list=LOCALIP
 add address=223.121.128.0/17 list=LOCALIP
-add address=223.123.128.0/17 list=LOCALIP
+add address=223.123.208.0/20 list=LOCALIP
+add address=223.123.224.0/19 list=LOCALIP
 add address=223.124.0.0/14 list=LOCALIP
 add address=223.128.0.0/15 list=LOCALIP
 add address=223.144.0.0/12 list=LOCALIP
