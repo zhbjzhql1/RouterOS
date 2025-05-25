@@ -3951,7 +3951,6 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=nobel.se
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=nobelprize.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=nobodycanstop.us
-add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=nodeloc.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=nodeseek.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=nofile.io
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=nokogiri.org
@@ -4554,6 +4553,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=redchinacn.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=redd.it
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=reddit.com
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=reddithelp.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=redditlist.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=redditmedia.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=redditspace.com
@@ -6211,6 +6211,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=www.moztw.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=www.msn.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=www.nbc.com
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=www.nodeloc.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=www.orchidbbs.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=www.owind.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=www.oxid.it
