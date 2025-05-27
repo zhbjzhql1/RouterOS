@@ -2143,6 +2143,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=geekheart.info
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=gekikame.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=gelbooru.com
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=gemini.google
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=generated.photos
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=genius.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=geocities.co.jp
