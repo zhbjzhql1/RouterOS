@@ -9064,6 +9064,7 @@ add address=59.153.136.0/22 list=LOCALIP
 add address=59.153.152.0/22 list=LOCALIP
 add address=59.153.164.0/22 list=LOCALIP
 add address=59.153.168.0/21 list=LOCALIP
+add address=59.153.168.0/24 list=LOCALIP
 add address=59.153.176.0/20 list=LOCALIP
 add address=59.153.192.0/22 list=LOCALIP
 add address=59.153.32.0/22 list=LOCALIP
