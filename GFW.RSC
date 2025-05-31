@@ -627,6 +627,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=bl-doujinsouko.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blacked.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blacklogic.com
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blackmagicdesign.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blackvpn.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blewpass.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=blinkx.com
