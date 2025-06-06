@@ -1213,6 +1213,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=codeshare.io
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=codeskulptor.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=cofacts.tw
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=coffeemanga.to
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=coin2co.in
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=coinbase.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=coinbene.com
