@@ -132,6 +132,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=8z1.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=9001700.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=908taiwan.org
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=91dasai.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=91porn.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=91porny.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=91vps.club
