@@ -258,6 +258,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=amnestyusa.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=ampproject.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=amtb-taipei.org
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=amuletmc.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=anchor.fm
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=anchorfree.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=ancsconf.org
