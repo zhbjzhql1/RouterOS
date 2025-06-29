@@ -2637,6 +2637,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=imdb.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=img.dlsite.jp
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=img.ly
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=img.picgo.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=imgasd.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=imgchili.net
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=imgmega.com
