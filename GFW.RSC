@@ -3089,6 +3089,7 @@ add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes nam
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=lsxszzg.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=ltn.com.tw
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=luckydesigner.space
+add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=ludepress.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=luke54.com
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=luke54.org
 add forward-to=$dnsserver type=FWD address-list=GFW_List match-subdomain=yes name=lupm.org
